@@ -1,6 +1,4 @@
 
-=======
-
 <a href="https://github.com/tuusuario/procesador-csv">
   <img width="300px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo" width="800" />
 </a>
@@ -139,4 +137,3 @@ Donde:
 [stars-url]: https://github.com/tuusuario/procesador-csv/stargazers
 [issues-shield]: https://img.shields.io/github/issues/tuusuario/procesador-csv.svg?style=for-the-badge
 [issues-url]: https://github.com/tuusuario/procesador-csv/issues
->>>>>>> master
