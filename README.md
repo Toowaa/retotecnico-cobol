@@ -100,11 +100,11 @@ El procesador está diseñado para analizar archivos CSV que contienen registros
 El archivo CSV debe tener el siguiente formato:
 
 ```csv
-tipo;monto
-Credito;1000.00
-Debito;500.00
-Credito;750.50
-Debito;320.75
+id;tipo;monto
+1;Credito;1000.00
+2;Debito;500.00
+3;Credito;750.50
+4;Debito;320.75
 ```
 
 Donde:
