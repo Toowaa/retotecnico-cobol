@@ -38,7 +38,8 @@ Una herramienta Node.js para procesar archivos CSV con transacciones financieras
 
 ### Capturas de pantalla del procesador
 
-![image](https://github.com/user-attachments/assets/94e7e095-4705-4d0d-b793-21a1c27e69f4)
+![image](https://github.com/user-attachments/assets/8d4c539a-d075-4a1a-8a33-c0670e89b11d)
+
 
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
