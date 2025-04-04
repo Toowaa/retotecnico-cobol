@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/94e7e095-4705-4d0d-b793-21a1c27e69f4)<<<<<<< HEAD
-# retotecnico-cobol
+
 =======
 
 <a href="https://github.com/tuusuario/procesador-csv">
@@ -39,10 +38,8 @@ Una herramienta Node.js para procesar archivos CSV con transacciones financieras
 
 ### Capturas de pantalla del procesador
 
-![Captura de pantalla en terminal](![image](https://github.com/user-attachments/assets/776c4c72-34d8-477c-9837-e1a9a1746b11)
-)
-![Captura de archivo CSV](![image](https://github.com/user-attachments/assets/4c778ce8-c706-41c6-b9ca-a98c0d92aff3)
-)
+![image](https://github.com/user-attachments/assets/94e7e095-4705-4d0d-b793-21a1c27e69f4)
+
 
 <p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
