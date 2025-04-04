@@ -1,9 +1,9 @@
 id ; tipo; monto
-1;Credito;150
-1;Debito;200
-1;Credito;100
-1;Debito;50
-1;Credito;60
-1;Debito;70
-1;Credito;80
-1;Debito;10
+1;Credito;165
+2;Debito;200
+3;Credito;100
+4;Debito;50
+5;Credito;60
+6;Debito;70
+7;Credito;210
+8;Debito;10
