@@ -62,7 +62,7 @@ async function main(Path) {
     // Imprimimos los resultados
     console.log("Reporte de Transacciones:");
     console.log("---------------------------------------------");
-    console.log("Balance Final:", "ID" + resultado, "-", resultado);
+    console.log("Balance Final:", resultado);
     console.log("Transacción de Mayor Monto:", "ID :" , idmaximo, "-", maximo);
 
     console.log(
