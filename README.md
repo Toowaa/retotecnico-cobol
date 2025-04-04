@@ -108,51 +108,11 @@ id;tipo;monto
 ```
 
 Donde:
-- La primera línea es el encabezado (opcional)
+- La primera línea es el encabezado 
 - `tipo`: Puede ser "Credito" o "Debito" (sensible a mayúsculas)
 - `monto`: Valor numérico de la transacción
 
-### Ejemplos de uso
 
-**Ejecución básica:**
-
-```sh
-node index.js
-```
-
-**Integrando en otro proyecto:**
-
-```javascript
-const { readCSV, processTransactions } = require('./procesador-csv');
-
-async function miProyecto() {
-  const datos = await readCSV('ruta/archivo.csv');
-  const resultado = processTransactions(datos);
-  console.log(`Balance final: ${resultado}`);
-}
-```
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
-
-## Contribuir al proyecto
-
-Las contribuciones son lo que hacen que la comunidad de código abierto sea un lugar increíble para aprender, inspirar y crear. ¡Cualquier contribución que hagas es **muy apreciada**!
-
-Si tienes alguna sugerencia que podría mejorar el proyecto, por favor haz un [_fork_](https://github.com/tuusuario/procesador-csv/fork) del repositorio y crea una [_pull request_](https://github.com/tuusuario/procesador-csv/pulls). También puedes simplemente abrir un [_issue_](https://github.com/tuusuario/procesador-csv/issues) con la etiqueta "enhancement".
-
-Aquí tienes una guía rápida:
-
-1. Haz un [_fork_](https://github.com/tuusuario/procesador-csv/fork) del Proyecto
-2. Clona tu [_fork_](https://github.com/tuusuario/procesador-csv/fork) (`git clone <URL del fork>`)
-3. Añade el repositorio original como remoto (`git remote add upstream <URL del repositorio original>`)
-4. Crea tu Rama de Funcionalidad (`git switch -c feature/CaracteristicaIncreible`)
-5. Realiza tus Cambios (`git commit -m 'Add: alguna CaracterísticaIncreible'`)
-6. Haz Push a la Rama (`git push origin feature/CaracteristicaIncreible`)
-7. Abre una [_pull request_](https://github.com/tuusuario/procesador-csv/pulls)
-
-**¡Gracias a todos los colaboradores que han hecho posible este proyecto!**
-
-<p align="right">(<a href="#readme-top">volver arriba</a>)</p>
 
 ## 🛠️ Stack
 
